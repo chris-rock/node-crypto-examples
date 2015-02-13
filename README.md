@@ -4,12 +4,12 @@ This repository is a collection of various scripts that illustrate the use of [c
 
 Currently the collections includes:
 
- * Encrypt and decrypt text
- * Encrypt and decrypt buffers
- * Encrypt and decrypt streams
- * Use GCM for authenticated encryption
- * SHA 512 generation
- * SHA 512 and streams
+ * [Encrypt and decrypt text](https://github.com/chris-rock/node-encryption-examples/blob/master/crypto-ctr.js)
+ * [Encrypt and decrypt buffers](https://github.com/chris-rock/node-encryption-examples/blob/master/crypto-buffer.js)
+ * [Encrypt and decrypt streams](https://github.com/chris-rock/node-encryption-examples/blob/master/crypto-stream.js)
+ * [Use GCM for authenticated encryption](https://github.com/chris-rock/node-encryption-examples/blob/master/crypto-gcm.js)
+ * [SHA 512 generation](https://github.com/chris-rock/node-encryption-examples/blob/master/sha-text.js)
+ * [SHA 512 and streams](https://github.com/chris-rock/node-encryption-examples/blob/master/sha-stream.js)
 
 References: 
 
